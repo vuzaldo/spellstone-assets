@@ -1,0 +1,158 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1799
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1780
+  },
+  "m_Name": "",
+  "version": 3,
+  "materialIdsValid": true,
+  "needMaterialInstance": false,
+  "spriteDefinitions": [
+    {
+      "name": "Hall_Of_Heroes_BG",
+      "boundsData": [
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 1364.0,
+          "y": 768.0,
+          "z": 0.0
+        }
+      ],
+      "untrimmedBoundsData": [
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 1364.0,
+          "y": 768.0,
+          "z": 0.0
+        }
+      ],
+      "texelSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "positions": [
+        {
+          "x": -682.0,
+          "y": -384.0,
+          "z": 0.0
+        },
+        {
+          "x": 682.0,
+          "y": -384.0,
+          "z": 0.0
+        },
+        {
+          "x": -682.0,
+          "y": 384.0,
+          "z": 0.0
+        },
+        {
+          "x": 682.0,
+          "y": 384.0,
+          "z": 0.0
+        }
+      ],
+      "normals": [],
+      "tangents": [],
+      "uvs": [
+        {
+          "x": 0.0019541015,
+          "y": 0.0009770507
+        },
+        {
+          "x": 0.0019541015,
+          "y": 0.6669917
+        },
+        {
+          "x": 0.7519522,
+          "y": 0.0009770507
+        },
+        {
+          "x": 0.7519522,
+          "y": 0.6669917
+        }
+      ],
+      "normalizedUvs": [],
+      "indices": [
+        0,
+        3,
+        1,
+        2,
+        3,
+        0
+      ],
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 110
+      },
+      "materialId": 0,
+      "materialIndexData": [],
+      "sourceTextureGUID": "1d29df2a8803041c88acdb44211bf2e2",
+      "extractRegion": false,
+      "regionX": 0,
+      "regionY": 0,
+      "regionW": 0,
+      "regionH": 0,
+      "flipped": 1,
+      "complexGeometry": false,
+      "physicsEngine": 0,
+      "colliderType": 0,
+      "customColliders": [],
+      "colliderVertices": [],
+      "colliderIndicesFwd": [],
+      "colliderIndicesBack": [],
+      "colliderConvex": false,
+      "colliderSmoothSphereCollisions": false,
+      "polygonCollider2D": [],
+      "edgeCollider2D": [],
+      "attachPoints": []
+    }
+  ],
+  "premultipliedAlpha": false,
+  "material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 110
+    }
+  ],
+  "textures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 396
+    }
+  ],
+  "pngTextures": [],
+  "materialPngTextureId": [],
+  "textureFilterMode": 1,
+  "textureMipMaps": false,
+  "allowMultipleAtlases": false,
+  "spriteCollectionGUID": "3ed658573a98f4e2a993235fc3e2c521",
+  "spriteCollectionName": "WizardsBackgroundCollection01",
+  "assetName": "",
+  "loadable": false,
+  "invOrthoSize": 2.0,
+  "halfTargetHeight": 0.5,
+  "buildKey": 2046382844,
+  "dataGuid": "01d9d6ed1a13b489d9d8ebc3e6338b82",
+  "managedSpriteCollection": false,
+  "hasPlatformData": false,
+  "spriteCollectionPlatforms": [],
+  "spriteCollectionPlatformGUIDs": []
+}

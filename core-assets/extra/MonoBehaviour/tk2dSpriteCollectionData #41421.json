@@ -1,0 +1,158 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3695
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1780
+  },
+  "m_Name": "",
+  "version": 3,
+  "materialIdsValid": true,
+  "needMaterialInstance": true,
+  "spriteDefinitions": [
+    {
+      "name": "wizardbabies_intro",
+      "boundsData": [
+        {
+          "x": 830.0,
+          "y": 384.0,
+          "z": 0.0
+        },
+        {
+          "x": 1660.0,
+          "y": 768.0,
+          "z": 0.0
+        }
+      ],
+      "untrimmedBoundsData": [
+        {
+          "x": 830.0,
+          "y": 384.0,
+          "z": 0.0
+        },
+        {
+          "x": 1660.0,
+          "y": 768.0,
+          "z": 0.0
+        }
+      ],
+      "texelSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "positions": [
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 1660.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 768.0,
+          "z": 0.0
+        },
+        {
+          "x": 1660.0,
+          "y": 768.0,
+          "z": 0.0
+        }
+      ],
+      "normals": [],
+      "tangents": [],
+      "uvs": [
+        {
+          "x": 0.0009770507,
+          "y": 0.0004885254
+        },
+        {
+          "x": 0.0009770507,
+          "y": 0.8110349
+        },
+        {
+          "x": 0.7509761,
+          "y": 0.0004885254
+        },
+        {
+          "x": 0.7509761,
+          "y": 0.8110349
+        }
+      ],
+      "normalizedUvs": [],
+      "indices": [
+        0,
+        3,
+        1,
+        2,
+        3,
+        0
+      ],
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 244
+      },
+      "materialId": 0,
+      "materialIndexData": [],
+      "sourceTextureGUID": "22f40ba96ffbf45b09510208596e4957",
+      "extractRegion": false,
+      "regionX": 0,
+      "regionY": 0,
+      "regionW": 0,
+      "regionH": 0,
+      "flipped": 1,
+      "complexGeometry": false,
+      "physicsEngine": 0,
+      "colliderType": 0,
+      "customColliders": [],
+      "colliderVertices": [],
+      "colliderIndicesFwd": [],
+      "colliderIndicesBack": [],
+      "colliderConvex": false,
+      "colliderSmoothSphereCollisions": false,
+      "polygonCollider2D": [],
+      "edgeCollider2D": [],
+      "attachPoints": []
+    }
+  ],
+  "premultipliedAlpha": false,
+  "material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 244
+    }
+  ],
+  "textures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 425
+    }
+  ],
+  "pngTextures": [],
+  "materialPngTextureId": [],
+  "textureFilterMode": 1,
+  "textureMipMaps": false,
+  "allowMultipleAtlases": false,
+  "spriteCollectionGUID": "519e2bd8d67e94b4faeacb3130e04234",
+  "spriteCollectionName": "introscreen_wide_Collection@2x",
+  "assetName": "",
+  "loadable": false,
+  "invOrthoSize": 2.0,
+  "halfTargetHeight": 0.5,
+  "buildKey": 1520275371,
+  "dataGuid": "c463ed36e76f048f8ac75a56d52db062",
+  "managedSpriteCollection": true,
+  "hasPlatformData": false,
+  "spriteCollectionPlatforms": [],
+  "spriteCollectionPlatformGUIDs": []
+}

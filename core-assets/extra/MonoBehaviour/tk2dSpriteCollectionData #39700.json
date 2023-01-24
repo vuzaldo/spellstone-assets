@@ -1,0 +1,1228 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2164
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1780
+  },
+  "m_Name": "",
+  "version": 3,
+  "materialIdsValid": true,
+  "needMaterialInstance": false,
+  "spriteDefinitions": [
+    {
+      "name": "cardFlash01",
+      "boundsData": [
+        {
+          "x": -68.5,
+          "y": 114.5,
+          "z": 0.0
+        },
+        {
+          "x": 27.0,
+          "y": 27.000008,
+          "z": 0.0
+        }
+      ],
+      "untrimmedBoundsData": [
+        {
+          "x": 0.5,
+          "y": -0.5,
+          "z": 0.0
+        },
+        {
+          "x": 205.0,
+          "y": 265.0,
+          "z": 0.0
+        }
+      ],
+      "texelSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "positions": [
+        {
+          "x": -82.0,
+          "y": 100.99999,
+          "z": 0.0
+        },
+        {
+          "x": -55.0,
+          "y": 100.99999,
+          "z": 0.0
+        },
+        {
+          "x": -82.0,
+          "y": 128.0,
+          "z": 0.0
+        },
+        {
+          "x": -55.0,
+          "y": 128.0,
+          "z": 0.0
+        }
+      ],
+      "normals": [],
+      "tangents": [],
+      "uvs": [
+        {
+          "x": 0.24414258,
+          "y": 0.9101582
+        },
+        {
+          "x": 0.29687303,
+          "y": 0.9101582
+        },
+        {
+          "x": 0.24414258,
+          "y": 0.96288866
+        },
+        {
+          "x": 0.29687303,
+          "y": 0.96288866
+        }
+      ],
+      "normalizedUvs": [],
+      "indices": [
+        0,
+        3,
+        1,
+        2,
+        3,
+        0
+      ],
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 133
+      },
+      "materialId": 0,
+      "materialIndexData": [],
+      "sourceTextureGUID": "08ddca07656e943848edf4dfe0f61c74",
+      "extractRegion": false,
+      "regionX": 0,
+      "regionY": 0,
+      "regionW": 0,
+      "regionH": 0,
+      "flipped": 0,
+      "complexGeometry": false,
+      "physicsEngine": 0,
+      "colliderType": 1,
+      "customColliders": [],
+      "colliderVertices": [],
+      "colliderIndicesFwd": [],
+      "colliderIndicesBack": [],
+      "colliderConvex": false,
+      "colliderSmoothSphereCollisions": false,
+      "polygonCollider2D": [],
+      "edgeCollider2D": [],
+      "attachPoints": []
+    },
+    {
+      "name": "cardFlash05",
+      "boundsData": [
+        {
+          "x": 0.4999962,
+          "y": 35.5,
+          "z": 0.0
+        },
+        {
+          "x": 165.0,
+          "y": 185.0,
+          "z": 0.0
+        }
+      ],
+      "untrimmedBoundsData": [
+        {
+          "x": 0.5,
+          "y": -0.5,
+          "z": 0.0
+        },
+        {
+          "x": 205.0,
+          "y": 265.0,
+          "z": 0.0
+        }
+      ],
+      "texelSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "positions": [
+        {
+          "x": -82.0,
+          "y": -57.0,
+          "z": 0.0
+        },
+        {
+          "x": 82.99999,
+          "y": -57.0,
+          "z": 0.0
+        },
+        {
+          "x": -82.0,
+          "y": 128.0,
+          "z": 0.0
+        },
+        {
+          "x": 82.99999,
+          "y": 128.0,
+          "z": 0.0
+        }
+      ],
+      "normals": [],
+      "tangents": [],
+      "uvs": [
+        {
+          "x": 0.3457051,
+          "y": 0.003908203
+        },
+        {
+          "x": 0.3457051,
+          "y": 0.3261699
+        },
+        {
+          "x": 0.7070293,
+          "y": 0.003908203
+        },
+        {
+          "x": 0.7070293,
+          "y": 0.3261699
+        }
+      ],
+      "normalizedUvs": [],
+      "indices": [
+        0,
+        3,
+        1,
+        2,
+        3,
+        0
+      ],
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 133
+      },
+      "materialId": 0,
+      "materialIndexData": [],
+      "sourceTextureGUID": "4a18be9c60d134a0ba80cb8bc81669e1",
+      "extractRegion": false,
+      "regionX": 0,
+      "regionY": 0,
+      "regionW": 0,
+      "regionH": 0,
+      "flipped": 1,
+      "complexGeometry": false,
+      "physicsEngine": 0,
+      "colliderType": 1,
+      "customColliders": [],
+      "colliderVertices": [],
+      "colliderIndicesFwd": [],
+      "colliderIndicesBack": [],
+      "colliderConvex": false,
+      "colliderSmoothSphereCollisions": false,
+      "polygonCollider2D": [],
+      "edgeCollider2D": [],
+      "attachPoints": []
+    },
+    {
+      "name": "cardFlash10",
+      "boundsData": [
+        {
+          "x": 61.0,
+          "y": -92.0,
+          "z": 0.0
+        },
+        {
+          "x": 62.000004,
+          "y": 58.0,
+          "z": 0.0
+        }
+      ],
+      "untrimmedBoundsData": [
+        {
+          "x": 0.5,
+          "y": -0.5,
+          "z": 0.0
+        },
+        {
+          "x": 205.0,
+          "y": 265.0,
+          "z": 0.0
+        }
+      ],
+      "texelSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "positions": [
+        {
+          "x": 29.999996,
+          "y": -121.0,
+          "z": 0.0
+        },
+        {
+          "x": 92.0,
+          "y": -121.0,
+          "z": 0.0
+        },
+        {
+          "x": 29.999996,
+          "y": -63.0,
+          "z": 0.0
+        },
+        {
+          "x": 92.0,
+          "y": -63.0,
+          "z": 0.0
+        }
+      ],
+      "normals": [],
+      "tangents": [],
+      "uvs": [
+        {
+          "x": 0.003908203,
+          "y": 0.8300801
+        },
+        {
+          "x": 0.003908203,
+          "y": 0.9511699
+        },
+        {
+          "x": 0.11718555,
+          "y": 0.8300801
+        },
+        {
+          "x": 0.11718555,
+          "y": 0.9511699
+        }
+      ],
+      "normalizedUvs": [],
+      "indices": [
+        0,
+        3,
+        1,
+        2,
+        3,
+        0
+      ],
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 133
+      },
+      "materialId": 0,
+      "materialIndexData": [],
+      "sourceTextureGUID": "580c84d57811b4de6a22747c5a351943",
+      "extractRegion": false,
+      "regionX": 0,
+      "regionY": 0,
+      "regionW": 0,
+      "regionH": 0,
+      "flipped": 1,
+      "complexGeometry": false,
+      "physicsEngine": 0,
+      "colliderType": 1,
+      "customColliders": [],
+      "colliderVertices": [],
+      "colliderIndicesFwd": [],
+      "colliderIndicesBack": [],
+      "colliderConvex": false,
+      "colliderSmoothSphereCollisions": false,
+      "polygonCollider2D": [],
+      "edgeCollider2D": [],
+      "attachPoints": []
+    },
+    {
+      "name": "cardFlash11",
+      "boundsData": [
+        {
+          "x": 74.5,
+          "y": -102.5,
+          "z": 0.0
+        },
+        {
+          "x": 35.000004,
+          "y": 37.0,
+          "z": 0.0
+        }
+      ],
+      "untrimmedBoundsData": [
+        {
+          "x": 0.5,
+          "y": -0.5,
+          "z": 0.0
+        },
+        {
+          "x": 205.0,
+          "y": 265.0,
+          "z": 0.0
+        }
+      ],
+      "texelSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "positions": [
+        {
+          "x": 56.999996,
+          "y": -121.0,
+          "z": 0.0
+        },
+        {
+          "x": 92.0,
+          "y": -121.0,
+          "z": 0.0
+        },
+        {
+          "x": 56.999996,
+          "y": -84.0,
+          "z": 0.0
+        },
+        {
+          "x": 92.0,
+          "y": -84.0,
+          "z": 0.0
+        }
+      ],
+      "normals": [],
+      "tangents": [],
+      "uvs": [
+        {
+          "x": 0.24414258,
+          "y": 0.8300801
+        },
+        {
+          "x": 0.31249803,
+          "y": 0.8300801
+        },
+        {
+          "x": 0.24414258,
+          "y": 0.9023418
+        },
+        {
+          "x": 0.31249803,
+          "y": 0.9023418
+        }
+      ],
+      "normalizedUvs": [],
+      "indices": [
+        0,
+        3,
+        1,
+        2,
+        3,
+        0
+      ],
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 133
+      },
+      "materialId": 0,
+      "materialIndexData": [],
+      "sourceTextureGUID": "97deacc7674b347c6b8bac04a8cd324a",
+      "extractRegion": false,
+      "regionX": 0,
+      "regionY": 0,
+      "regionW": 0,
+      "regionH": 0,
+      "flipped": 0,
+      "complexGeometry": false,
+      "physicsEngine": 0,
+      "colliderType": 1,
+      "customColliders": [],
+      "colliderVertices": [],
+      "colliderIndicesFwd": [],
+      "colliderIndicesBack": [],
+      "colliderConvex": false,
+      "colliderSmoothSphereCollisions": false,
+      "polygonCollider2D": [],
+      "edgeCollider2D": [],
+      "attachPoints": []
+    },
+    {
+      "name": "cardFlash02",
+      "boundsData": [
+        {
+          "x": -53.5,
+          "y": 99.5,
+          "z": 0.0
+        },
+        {
+          "x": 57.0,
+          "y": 57.0,
+          "z": 0.0
+        }
+      ],
+      "untrimmedBoundsData": [
+        {
+          "x": 0.5,
+          "y": -0.5,
+          "z": 0.0
+        },
+        {
+          "x": 205.0,
+          "y": 265.0,
+          "z": 0.0
+        }
+      ],
+      "texelSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "positions": [
+        {
+          "x": -82.0,
+          "y": 71.0,
+          "z": 0.0
+        },
+        {
+          "x": -25.0,
+          "y": 71.0,
+          "z": 0.0
+        },
+        {
+          "x": -82.0,
+          "y": 128.0,
+          "z": 0.0
+        },
+        {
+          "x": -25.0,
+          "y": 128.0,
+          "z": 0.0
+        }
+      ],
+      "normals": [],
+      "tangents": [],
+      "uvs": [
+        {
+          "x": 0.12500195,
+          "y": 0.8300801
+        },
+        {
+          "x": 0.23632617,
+          "y": 0.8300801
+        },
+        {
+          "x": 0.12500195,
+          "y": 0.9414043
+        },
+        {
+          "x": 0.23632617,
+          "y": 0.9414043
+        }
+      ],
+      "normalizedUvs": [],
+      "indices": [
+        0,
+        3,
+        1,
+        2,
+        3,
+        0
+      ],
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 133
+      },
+      "materialId": 0,
+      "materialIndexData": [],
+      "sourceTextureGUID": "ab7385b990d92455e9111fe4ddec7d70",
+      "extractRegion": false,
+      "regionX": 0,
+      "regionY": 0,
+      "regionW": 0,
+      "regionH": 0,
+      "flipped": 0,
+      "complexGeometry": false,
+      "physicsEngine": 0,
+      "colliderType": 1,
+      "customColliders": [],
+      "colliderVertices": [],
+      "colliderIndicesFwd": [],
+      "colliderIndicesBack": [],
+      "colliderConvex": false,
+      "colliderSmoothSphereCollisions": false,
+      "polygonCollider2D": [],
+      "edgeCollider2D": [],
+      "attachPoints": []
+    },
+    {
+      "name": "cardFlash07",
+      "boundsData": [
+        {
+          "x": -2.5000038,
+          "y": -28.500004,
+          "z": 0.0
+        },
+        {
+          "x": 171.0,
+          "y": 195.0,
+          "z": 0.0
+        }
+      ],
+      "untrimmedBoundsData": [
+        {
+          "x": 0.5,
+          "y": -0.5,
+          "z": 0.0
+        },
+        {
+          "x": 205.0,
+          "y": 265.0,
+          "z": 0.0
+        }
+      ],
+      "texelSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "positions": [
+        {
+          "x": -88.0,
+          "y": -126.0,
+          "z": 0.0
+        },
+        {
+          "x": 82.99999,
+          "y": -126.0,
+          "z": 0.0
+        },
+        {
+          "x": -88.0,
+          "y": 68.99999,
+          "z": 0.0
+        },
+        {
+          "x": 82.99999,
+          "y": 68.99999,
+          "z": 0.0
+        }
+      ],
+      "normals": [],
+      "tangents": [],
+      "uvs": [
+        {
+          "x": 0.003908203,
+          "y": 0.44140822
+        },
+        {
+          "x": 0.33788866,
+          "y": 0.44140822
+        },
+        {
+          "x": 0.003908203,
+          "y": 0.82226366
+        },
+        {
+          "x": 0.33788866,
+          "y": 0.82226366
+        }
+      ],
+      "normalizedUvs": [],
+      "indices": [
+        0,
+        3,
+        1,
+        2,
+        3,
+        0
+      ],
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 133
+      },
+      "materialId": 0,
+      "materialIndexData": [],
+      "sourceTextureGUID": "bdaa631cc24a94393ae2dfe8f79a8c4e",
+      "extractRegion": false,
+      "regionX": 0,
+      "regionY": 0,
+      "regionW": 0,
+      "regionH": 0,
+      "flipped": 0,
+      "complexGeometry": false,
+      "physicsEngine": 0,
+      "colliderType": 1,
+      "customColliders": [],
+      "colliderVertices": [],
+      "colliderIndicesFwd": [],
+      "colliderIndicesBack": [],
+      "colliderConvex": false,
+      "colliderSmoothSphereCollisions": false,
+      "polygonCollider2D": [],
+      "edgeCollider2D": [],
+      "attachPoints": []
+    },
+    {
+      "name": "cardFlash08",
+      "boundsData": [
+        {
+          "x": 7.499996,
+          "y": -49.0,
+          "z": 0.0
+        },
+        {
+          "x": 151.0,
+          "y": 154.0,
+          "z": 0.0
+        }
+      ],
+      "untrimmedBoundsData": [
+        {
+          "x": 0.5,
+          "y": -0.5,
+          "z": 0.0
+        },
+        {
+          "x": 205.0,
+          "y": 265.0,
+          "z": 0.0
+        }
+      ],
+      "texelSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "positions": [
+        {
+          "x": -68.0,
+          "y": -126.0,
+          "z": 0.0
+        },
+        {
+          "x": 82.99999,
+          "y": -126.0,
+          "z": 0.0
+        },
+        {
+          "x": -68.0,
+          "y": 27.999998,
+          "z": 0.0
+        },
+        {
+          "x": 82.99999,
+          "y": 27.999998,
+          "z": 0.0
+        }
+      ],
+      "normals": [],
+      "tangents": [],
+      "uvs": [
+        {
+          "x": 0.3457051,
+          "y": 0.33398634
+        },
+        {
+          "x": 0.3457051,
+          "y": 0.6289043
+        },
+        {
+          "x": 0.6464824,
+          "y": 0.33398634
+        },
+        {
+          "x": 0.6464824,
+          "y": 0.6289043
+        }
+      ],
+      "normalizedUvs": [],
+      "indices": [
+        0,
+        3,
+        1,
+        2,
+        3,
+        0
+      ],
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 133
+      },
+      "materialId": 0,
+      "materialIndexData": [],
+      "sourceTextureGUID": "c44543ff2bab84efabc718aff87371ee",
+      "extractRegion": false,
+      "regionX": 0,
+      "regionY": 0,
+      "regionW": 0,
+      "regionH": 0,
+      "flipped": 1,
+      "complexGeometry": false,
+      "physicsEngine": 0,
+      "colliderType": 1,
+      "customColliders": [],
+      "colliderVertices": [],
+      "colliderIndicesFwd": [],
+      "colliderIndicesBack": [],
+      "colliderConvex": false,
+      "colliderSmoothSphereCollisions": false,
+      "polygonCollider2D": [],
+      "edgeCollider2D": [],
+      "attachPoints": []
+    },
+    {
+      "name": "cardFlash04",
+      "boundsData": [
+        {
+          "x": -16.499998,
+          "y": 63.0,
+          "z": 0.0
+        },
+        {
+          "x": 131.0,
+          "y": 130.0,
+          "z": 0.0
+        }
+      ],
+      "untrimmedBoundsData": [
+        {
+          "x": 0.5,
+          "y": -0.5,
+          "z": 0.0
+        },
+        {
+          "x": 205.0,
+          "y": 265.0,
+          "z": 0.0
+        }
+      ],
+      "texelSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "positions": [
+        {
+          "x": -82.0,
+          "y": -2.000002,
+          "z": 0.0
+        },
+        {
+          "x": 49.000004,
+          "y": -2.000002,
+          "z": 0.0
+        },
+        {
+          "x": -82.0,
+          "y": 128.0,
+          "z": 0.0
+        },
+        {
+          "x": 49.000004,
+          "y": 128.0,
+          "z": 0.0
+        }
+      ],
+      "normals": [],
+      "tangents": [],
+      "uvs": [
+        {
+          "x": 0.7148457,
+          "y": 0.003908203
+        },
+        {
+          "x": 0.97070116,
+          "y": 0.003908203
+        },
+        {
+          "x": 0.7148457,
+          "y": 0.25781053
+        },
+        {
+          "x": 0.97070116,
+          "y": 0.25781053
+        }
+      ],
+      "normalizedUvs": [],
+      "indices": [
+        0,
+        3,
+        1,
+        2,
+        3,
+        0
+      ],
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 133
+      },
+      "materialId": 0,
+      "materialIndexData": [],
+      "sourceTextureGUID": "c65386039e6bf49b7ae51f7e1ed4754f",
+      "extractRegion": false,
+      "regionX": 0,
+      "regionY": 0,
+      "regionW": 0,
+      "regionH": 0,
+      "flipped": 0,
+      "complexGeometry": false,
+      "physicsEngine": 0,
+      "colliderType": 1,
+      "customColliders": [],
+      "colliderVertices": [],
+      "colliderIndicesFwd": [],
+      "colliderIndicesBack": [],
+      "colliderConvex": false,
+      "colliderSmoothSphereCollisions": false,
+      "polygonCollider2D": [],
+      "edgeCollider2D": [],
+      "attachPoints": []
+    },
+    {
+      "name": "cardFlash06",
+      "boundsData": [
+        {
+          "x": -2.5000038,
+          "y": 6.0,
+          "z": 0.0
+        },
+        {
+          "x": 171.0,
+          "y": 220.0,
+          "z": 0.0
+        }
+      ],
+      "untrimmedBoundsData": [
+        {
+          "x": 0.5,
+          "y": -0.5,
+          "z": 0.0
+        },
+        {
+          "x": 205.0,
+          "y": 265.0,
+          "z": 0.0
+        }
+      ],
+      "texelSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "positions": [
+        {
+          "x": -88.0,
+          "y": -104.0,
+          "z": 0.0
+        },
+        {
+          "x": 82.99999,
+          "y": -104.0,
+          "z": 0.0
+        },
+        {
+          "x": -88.0,
+          "y": 116.0,
+          "z": 0.0
+        },
+        {
+          "x": 82.99999,
+          "y": 116.0,
+          "z": 0.0
+        }
+      ],
+      "normals": [],
+      "tangents": [],
+      "uvs": [
+        {
+          "x": 0.003908203,
+          "y": 0.003908203
+        },
+        {
+          "x": 0.33788866,
+          "y": 0.003908203
+        },
+        {
+          "x": 0.003908203,
+          "y": 0.43359178
+        },
+        {
+          "x": 0.33788866,
+          "y": 0.43359178
+        }
+      ],
+      "normalizedUvs": [],
+      "indices": [
+        0,
+        3,
+        1,
+        2,
+        3,
+        0
+      ],
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 133
+      },
+      "materialId": 0,
+      "materialIndexData": [],
+      "sourceTextureGUID": "dd37e6bcba5f2402bb2d7da9c43ff487",
+      "extractRegion": false,
+      "regionX": 0,
+      "regionY": 0,
+      "regionW": 0,
+      "regionH": 0,
+      "flipped": 0,
+      "complexGeometry": false,
+      "physicsEngine": 0,
+      "colliderType": 1,
+      "customColliders": [],
+      "colliderVertices": [],
+      "colliderIndicesFwd": [],
+      "colliderIndicesBack": [],
+      "colliderConvex": false,
+      "colliderSmoothSphereCollisions": false,
+      "polygonCollider2D": [],
+      "edgeCollider2D": [],
+      "attachPoints": []
+    },
+    {
+      "name": "cardFlash09",
+      "boundsData": [
+        {
+          "x": 37.999996,
+          "y": -70.0,
+          "z": 0.0
+        },
+        {
+          "x": 89.99999,
+          "y": 90.0,
+          "z": 0.0
+        }
+      ],
+      "untrimmedBoundsData": [
+        {
+          "x": 0.5,
+          "y": -0.5,
+          "z": 0.0
+        },
+        {
+          "x": 205.0,
+          "y": 265.0,
+          "z": 0.0
+        }
+      ],
+      "texelSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "positions": [
+        {
+          "x": -6.999999,
+          "y": -115.0,
+          "z": 0.0
+        },
+        {
+          "x": 82.99999,
+          "y": -115.0,
+          "z": 0.0
+        },
+        {
+          "x": -6.999999,
+          "y": -24.999998,
+          "z": 0.0
+        },
+        {
+          "x": 82.99999,
+          "y": -24.999998,
+          "z": 0.0
+        }
+      ],
+      "normals": [],
+      "tangents": [],
+      "uvs": [
+        {
+          "x": 0.7148457,
+          "y": 0.26562697
+        },
+        {
+          "x": 0.89062303,
+          "y": 0.26562697
+        },
+        {
+          "x": 0.7148457,
+          "y": 0.44140428
+        },
+        {
+          "x": 0.89062303,
+          "y": 0.44140428
+        }
+      ],
+      "normalizedUvs": [],
+      "indices": [
+        0,
+        3,
+        1,
+        2,
+        3,
+        0
+      ],
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 133
+      },
+      "materialId": 0,
+      "materialIndexData": [],
+      "sourceTextureGUID": "f1f233dba671c42c2b170ca3f8525247",
+      "extractRegion": false,
+      "regionX": 0,
+      "regionY": 0,
+      "regionW": 0,
+      "regionH": 0,
+      "flipped": 0,
+      "complexGeometry": false,
+      "physicsEngine": 0,
+      "colliderType": 1,
+      "customColliders": [],
+      "colliderVertices": [],
+      "colliderIndicesFwd": [],
+      "colliderIndicesBack": [],
+      "colliderConvex": false,
+      "colliderSmoothSphereCollisions": false,
+      "polygonCollider2D": [],
+      "edgeCollider2D": [],
+      "attachPoints": []
+    },
+    {
+      "name": "cardFlash03",
+      "boundsData": [
+        {
+          "x": -36.999996,
+          "y": 83.0,
+          "z": 0.0
+        },
+        {
+          "x": 90.00001,
+          "y": 89.99999,
+          "z": 0.0
+        }
+      ],
+      "untrimmedBoundsData": [
+        {
+          "x": 0.5,
+          "y": -0.5,
+          "z": 0.0
+        },
+        {
+          "x": 205.0,
+          "y": 265.0,
+          "z": 0.0
+        }
+      ],
+      "texelSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "positions": [
+        {
+          "x": -82.0,
+          "y": 38.000008,
+          "z": 0.0
+        },
+        {
+          "x": 8.000005,
+          "y": 38.000008,
+          "z": 0.0
+        },
+        {
+          "x": -82.0,
+          "y": 128.0,
+          "z": 0.0
+        },
+        {
+          "x": 8.000005,
+          "y": 128.0,
+          "z": 0.0
+        }
+      ],
+      "normals": [],
+      "tangents": [],
+      "uvs": [
+        {
+          "x": 0.65429884,
+          "y": 0.44922072
+        },
+        {
+          "x": 0.83007616,
+          "y": 0.44922072
+        },
+        {
+          "x": 0.65429884,
+          "y": 0.62499803
+        },
+        {
+          "x": 0.83007616,
+          "y": 0.62499803
+        }
+      ],
+      "normalizedUvs": [],
+      "indices": [
+        0,
+        3,
+        1,
+        2,
+        3,
+        0
+      ],
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 133
+      },
+      "materialId": 0,
+      "materialIndexData": [],
+      "sourceTextureGUID": "f2b62c4b99bb448a8af0070840ebba42",
+      "extractRegion": false,
+      "regionX": 0,
+      "regionY": 0,
+      "regionW": 0,
+      "regionH": 0,
+      "flipped": 0,
+      "complexGeometry": false,
+      "physicsEngine": 0,
+      "colliderType": 1,
+      "customColliders": [],
+      "colliderVertices": [],
+      "colliderIndicesFwd": [],
+      "colliderIndicesBack": [],
+      "colliderConvex": false,
+      "colliderSmoothSphereCollisions": false,
+      "polygonCollider2D": [],
+      "edgeCollider2D": [],
+      "attachPoints": []
+    }
+  ],
+  "premultipliedAlpha": false,
+  "material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 133
+    }
+  ],
+  "textures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 435
+    }
+  ],
+  "pngTextures": [],
+  "materialPngTextureId": [],
+  "textureFilterMode": 1,
+  "textureMipMaps": false,
+  "allowMultipleAtlases": false,
+  "spriteCollectionGUID": "9d2013da082cb478b8c28ae9044b1163",
+  "spriteCollectionName": "CardFlash",
+  "assetName": "",
+  "loadable": false,
+  "invOrthoSize": 2.0,
+  "halfTargetHeight": 0.5,
+  "buildKey": 762955203,
+  "dataGuid": "d82bccd9b754c4e50bba8547bfa2e696",
+  "managedSpriteCollection": false,
+  "hasPlatformData": false,
+  "spriteCollectionPlatforms": [],
+  "spriteCollectionPlatformGUIDs": []
+}

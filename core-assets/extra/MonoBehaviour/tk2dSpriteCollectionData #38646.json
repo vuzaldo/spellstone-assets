@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 882
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1780
+  },
+  "m_Name": "",
+  "version": 3,
+  "materialIdsValid": true,
+  "needMaterialInstance": false,
+  "spriteDefinitions": [],
+  "premultipliedAlpha": false,
+  "material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "materials": [],
+  "textures": [],
+  "pngTextures": [],
+  "materialPngTextureId": [],
+  "textureFilterMode": 1,
+  "textureMipMaps": false,
+  "allowMultipleAtlases": false,
+  "spriteCollectionGUID": "63097bf4c4a7747298d12941e2a3d56d",
+  "spriteCollectionName": "WizardsHomeBGCollection",
+  "assetName": "",
+  "loadable": false,
+  "invOrthoSize": 2.0,
+  "halfTargetHeight": 0.5,
+  "buildKey": 1178037458,
+  "dataGuid": "6c3f54eca59c7416da58ffe561c506ef",
+  "managedSpriteCollection": false,
+  "hasPlatformData": true,
+  "spriteCollectionPlatforms": [
+    "1x"
+  ],
+  "spriteCollectionPlatformGUIDs": [
+    "064f21d950db142b8b322aa68e064e47"
+  ]
+}

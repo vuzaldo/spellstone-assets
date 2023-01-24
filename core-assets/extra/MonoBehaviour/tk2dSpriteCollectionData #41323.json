@@ -1,0 +1,158 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3603
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1780
+  },
+  "m_Name": "",
+  "version": 3,
+  "materialIdsValid": true,
+  "needMaterialInstance": false,
+  "spriteDefinitions": [
+    {
+      "name": "logo_gem_color",
+      "boundsData": [
+        {
+          "x": -3.5,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 233.0,
+          "y": 256.0,
+          "z": 0.0
+        }
+      ],
+      "untrimmedBoundsData": [
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        {
+          "x": 256.0,
+          "y": 256.0,
+          "z": 0.0
+        }
+      ],
+      "texelSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "positions": [
+        {
+          "x": -120.0,
+          "y": -128.0,
+          "z": 0.0
+        },
+        {
+          "x": 113.0,
+          "y": -128.0,
+          "z": 0.0
+        },
+        {
+          "x": -120.0,
+          "y": 128.0,
+          "z": 0.0
+        },
+        {
+          "x": 113.0,
+          "y": 128.0,
+          "z": 0.0
+        }
+      ],
+      "normals": [],
+      "tangents": [],
+      "uvs": [
+        {
+          "x": 3.90625E-06,
+          "y": 3.90625E-06
+        },
+        {
+          "x": 0.9101523,
+          "y": 3.90625E-06
+        },
+        {
+          "x": 3.90625E-06,
+          "y": 0.99999607
+        },
+        {
+          "x": 0.9101523,
+          "y": 0.99999607
+        }
+      ],
+      "normalizedUvs": [],
+      "indices": [
+        0,
+        3,
+        1,
+        2,
+        3,
+        0
+      ],
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 135
+      },
+      "materialId": 0,
+      "materialIndexData": [],
+      "sourceTextureGUID": "820612b0f34fe3a45a735172378faff0",
+      "extractRegion": false,
+      "regionX": 0,
+      "regionY": 0,
+      "regionW": 0,
+      "regionH": 0,
+      "flipped": 0,
+      "complexGeometry": false,
+      "physicsEngine": 0,
+      "colliderType": 0,
+      "customColliders": [],
+      "colliderVertices": [],
+      "colliderIndicesFwd": [],
+      "colliderIndicesBack": [],
+      "colliderConvex": false,
+      "colliderSmoothSphereCollisions": false,
+      "polygonCollider2D": [],
+      "edgeCollider2D": [],
+      "attachPoints": []
+    }
+  ],
+  "premultipliedAlpha": false,
+  "material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 135
+    }
+  ],
+  "textures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 358
+    }
+  ],
+  "pngTextures": [],
+  "materialPngTextureId": [],
+  "textureFilterMode": 1,
+  "textureMipMaps": false,
+  "allowMultipleAtlases": false,
+  "spriteCollectionGUID": "c7541f2084f3247739aa8b29ed704164",
+  "spriteCollectionName": "logo_gem",
+  "assetName": "",
+  "loadable": false,
+  "invOrthoSize": 2.0,
+  "halfTargetHeight": 0.5,
+  "buildKey": 225204565,
+  "dataGuid": "a42a558f9f89d49088d78b293a10fb41",
+  "managedSpriteCollection": false,
+  "hasPlatformData": false,
+  "spriteCollectionPlatforms": [],
+  "spriteCollectionPlatformGUIDs": []
+}

@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4617
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1780
+  },
+  "m_Name": "",
+  "version": 3,
+  "materialIdsValid": false,
+  "needMaterialInstance": false,
+  "spriteDefinitions": [],
+  "premultipliedAlpha": false,
+  "material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "materials": [],
+  "textures": [],
+  "pngTextures": [],
+  "materialPngTextureId": [],
+  "textureFilterMode": 1,
+  "textureMipMaps": false,
+  "allowMultipleAtlases": false,
+  "spriteCollectionGUID": "1074609c4f0154347bf2e4c7512f73e3",
+  "spriteCollectionName": "FirstTimeUserCardSet 4",
+  "assetName": "",
+  "loadable": false,
+  "invOrthoSize": 1.0,
+  "halfTargetHeight": 1.0,
+  "buildKey": 0,
+  "dataGuid": "4162d388f1db1497dabc7b5204413af7",
+  "managedSpriteCollection": false,
+  "hasPlatformData": true,
+  "spriteCollectionPlatforms": [
+    "1x"
+  ],
+  "spriteCollectionPlatformGUIDs": [
+    "c1abe4cb5dc734064af275d4906a8e2d"
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1771
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1780
+  },
+  "m_Name": "",
+  "version": 3,
+  "materialIdsValid": true,
+  "needMaterialInstance": true,
+  "spriteDefinitions": [
+    {
+      "name": "legendary_quest_banner",
+      "boundsData": [
+        {
+          "x": 0.0,
+          "y": -0.5,
+          "z": 0.0
+        },
+        {
+          "x": 938.0,
+          "y": 257.0,
+          "z": 0.0
+        }
+      ],
+      "untrimmedBoundsData": [
+        {
+          "x": 0.0,
+          "y": -0.5,
+          "z": 0.0
+        },
+        {
+          "x": 938.0,
+          "y": 257.0,
+          "z": 0.0
+        }
+      ],
+      "texelSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "positions": [
+        {
+          "x": -469.0,
+          "y": -129.0,
+          "z": 0.0
+        },
+        {
+          "x": 469.0,
+          "y": -129.0,
+          "z": 0.0
+        },
+        {
+          "x": -469.0,
+          "y": 128.0,
+          "z": 0.0
+        },
+        {
+          "x": 469.0,
+          "y": 128.0,
+          "z": 0.0
+        }
+      ],
+      "normals": [],
+      "tangents": [],
+      "uvs": [
+        {
+          "x": 0.0019541015,
+          "y": 0.17041065
+        },
+        {
+          "x": 0.9179678,
+          "y": 0.17041065
+        },
+        {
+          "x": 0.0019541015,
+          "y": 0.29589796
+        },
+        {
+          "x": 0.9179678,
+          "y": 0.29589796
+        }
+      ],
+      "normalizedUvs": [],
+      "indices": [
+        0,
+        3,
+        1,
+        2,
+        3,
+        0
+      ],
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 111
+      },
+      "materialId": 0,
+      "materialIndexData": [],
+      "sourceTextureGUID": "21b1c00a6a28f4505a79b3cb3170a095",
+      "extractRegion": false,
+      "regionX": 0,
+      "regionY": 0,
+      "regionW": 0,
+      "regionH": 0,
+      "flipped": 0,
+      "complexGeometry": false,
+      "physicsEngine": 0,
+      "colliderType": 1,
+      "customColliders": [],
+      "colliderVertices": [],
+      "colliderIndicesFwd": [],
+      "colliderIndicesBack": [],
+      "colliderConvex": false,
+      "colliderSmoothSphereCollisions": false,
+      "polygonCollider2D": [],
+      "edgeCollider2D": [],
+      "attachPoints": []
+    },
+    {
+      "name": "generic_quests_banner",
+      "boundsData": [
+        {
+          "x": 0.0,
+          "y": -0.5,
+          "z": 0.0
+        },
+        {
+          "x": 938.0,
+          "y": 257.0,
+          "z": 0.0
+        }
+      ],
+      "untrimmedBoundsData": [
+        {
+          "x": 0.0,
+          "y": -0.5,
+          "z": 0.0
+        },
+        {
+          "x": 938.0,
+          "y": 257.0,
+          "z": 0.0
+        }
+      ],
+      "texelSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "positions": [
+        {
+          "x": -469.0,
+          "y": -129.0,
+          "z": 0.0
+        },
+        {
+          "x": 469.0,
+          "y": -129.0,
+          "z": 0.0
+        },
+        {
+          "x": -469.0,
+          "y": 128.0,
+          "z": 0.0
+        },
+        {
+          "x": 469.0,
+          "y": 128.0,
+          "z": 0.0
+        }
+      ],
+      "normals": [],
+      "tangents": [],
+      "uvs": [
+        {
+          "x": 0.0019541015,
+          "y": 0.29785204
+        },
+        {
+          "x": 0.9179678,
+          "y": 0.29785204
+        },
+        {
+          "x": 0.0019541015,
+          "y": 0.42333937
+        },
+        {
+          "x": 0.9179678,
+          "y": 0.42333937
+        }
+      ],
+      "normalizedUvs": [],
+      "indices": [
+        0,
+        3,
+        1,
+        2,
+        3,
+        0
+      ],
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 111
+      },
+      "materialId": 0,
+      "materialIndexData": [],
+      "sourceTextureGUID": "0720ff7a898a04763908f00b16737f38",
+      "extractRegion": false,
+      "regionX": 0,
+      "regionY": 0,
+      "regionW": 0,
+      "regionH": 0,
+      "flipped": 0,
+      "complexGeometry": false,
+      "physicsEngine": 0,
+      "colliderType": 1,
+      "customColliders": [],
+      "colliderVertices": [],
+      "colliderIndicesFwd": [],
+      "colliderIndicesBack": [],
+      "colliderConvex": false,
+      "colliderSmoothSphereCollisions": false,
+      "polygonCollider2D": [],
+      "edgeCollider2D": [],
+      "attachPoints": []
+    },
+    {
+      "name": "generic_brawls_banner",
+      "boundsData": [
+        {
+          "x": 0.0,
+          "y": -0.5,
+          "z": 0.0
+        },
+        {
+          "x": 938.0,
+          "y": 257.0,
+          "z": 0.0
+        }
+      ],
+      "untrimmedBoundsData": [
+        {
+          "x": 0.0,
+          "y": -0.5,
+          "z": 0.0
+        },
+        {
+          "x": 938.0,
+          "y": 257.0,
+          "z": 0.0
+        }
+      ],
+      "texelSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "positions": [
+        {
+          "x": -469.0,
+          "y": -129.0,
+          "z": 0.0
+        },
+        {
+          "x": 469.0,
+          "y": -129.0,
+          "z": 0.0
+        },
+        {
+          "x": -469.0,
+          "y": 128.0,
+          "z": 0.0
+        },
+        {
+          "x": 469.0,
+          "y": 128.0,
+          "z": 0.0
+        }
+      ],
+      "normals": [],
+      "tangents": [],
+      "uvs": [
+        {
+          "x": 0.0019541015,
+          "y": 0.42529345
+        },
+        {
+          "x": 0.9179678,
+          "y": 0.42529345
+        },
+        {
+          "x": 0.0019541015,
+          "y": 0.5507808
+        },
+        {
+          "x": 0.9179678,
+          "y": 0.5507808
+        }
+      ],
+      "normalizedUvs": [],
+      "indices": [
+        0,
+        3,
+        1,
+        2,
+        3,
+        0
+      ],
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 111
+      },
+      "materialId": 0,
+      "materialIndexData": [],
+      "sourceTextureGUID": "2b0bea2f08f6e4348821d2e7c259f689",
+      "extractRegion": false,
+      "regionX": 0,
+      "regionY": 0,
+      "regionW": 0,
+      "regionH": 0,
+      "flipped": 0,
+      "complexGeometry": false,
+      "physicsEngine": 0,
+      "colliderType": 1,
+      "customColliders": [],
+      "colliderVertices": [],
+      "colliderIndicesFwd": [],
+      "colliderIndicesBack": [],
+      "colliderConvex": false,
+      "colliderSmoothSphereCollisions": false,
+      "polygonCollider2D": [],
+      "edgeCollider2D": [],
+      "attachPoints": []
+    },
+    {
+      "name": "offerwall_store_banner",
+      "boundsData": [
+        {
+          "x": 0.0,
+          "y": -0.5,
+          "z": 0.0
+        },
+        {
+          "x": 938.0,
+          "y": 343.0,
+          "z": 0.0
+        }
+      ],
+      "untrimmedBoundsData": [
+        {
+          "x": 0.0,
+          "y": -0.5,
+          "z": 0.0
+        },
+        {
+          "x": 938.0,
+          "y": 343.0,
+          "z": 0.0
+        }
+      ],
+      "texelSize": {
+        "x": 1.0,
+        "y": 1.0
+      },
+      "positions": [
+        {
+          "x": -469.0,
+          "y": -172.0,
+          "z": 0.0
+        },
+        {
+          "x": 469.0,
+          "y": -172.0,
+          "z": 0.0
+        },
+        {
+          "x": -469.0,
+          "y": 171.0,
+          "z": 0.0
+        },
+        {
+          "x": 469.0,
+          "y": 171.0,
+          "z": 0.0
+        }
+      ],
+      "normals": [],
+      "tangents": [],
+      "uvs": [
+        {
+          "x": 0.0019541015,
+          "y": 0.0009770507
+        },
+        {
+          "x": 0.9179678,
+          "y": 0.0009770507
+        },
+        {
+          "x": 0.0019541015,
+          "y": 0.16845654
+        },
+        {
+          "x": 0.9179678,
+          "y": 0.16845654
+        }
+      ],
+      "normalizedUvs": [],
+      "indices": [
+        0,
+        3,
+        1,
+        2,
+        3,
+        0
+      ],
+      "material": {
+        "m_FileID": 0,
+        "m_PathID": 111
+      },
+      "materialId": 0,
+      "materialIndexData": [],
+      "sourceTextureGUID": "46425db41a4b14a2ca0d0e339b3572bd",
+      "extractRegion": false,
+      "regionX": 0,
+      "regionY": 0,
+      "regionW": 0,
+      "regionH": 0,
+      "flipped": 0,
+      "complexGeometry": false,
+      "physicsEngine": 0,
+      "colliderType": 0,
+      "customColliders": [],
+      "colliderVertices": [],
+      "colliderIndicesFwd": [],
+      "colliderIndicesBack": [],
+      "colliderConvex": false,
+      "colliderSmoothSphereCollisions": false,
+      "polygonCollider2D": [],
+      "edgeCollider2D": [],
+      "attachPoints": []
+    }
+  ],
+  "premultipliedAlpha": false,
+  "material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 111
+    }
+  ],
+  "textures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 260
+    }
+  ],
+  "pngTextures": [],
+  "materialPngTextureId": [],
+  "textureFilterMode": 1,
+  "textureMipMaps": false,
+  "allowMultipleAtlases": false,
+  "spriteCollectionGUID": "acfcd6616fa0749ffb482bd70563de51",
+  "spriteCollectionName": "WizardsBanners@1x",
+  "assetName": "",
+  "loadable": false,
+  "invOrthoSize": 2.0,
+  "halfTargetHeight": 0.5,
+  "buildKey": 477492172,
+  "dataGuid": "279a7ad85e52e4dbf9cbda1683040d7f",
+  "managedSpriteCollection": true,
+  "hasPlatformData": false,
+  "spriteCollectionPlatforms": [],
+  "spriteCollectionPlatformGUIDs": []
+}
