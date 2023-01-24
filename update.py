@@ -33,7 +33,7 @@ challenge_banners_{3} cardpack_standardset_2020 dungeon_{3}'''
 # Not updated often
 assets = 'cardpack_{3} cardpack_expansion_{3} cardpack_aprilfools_{3} runepack_{3} mapbanners_{3}'
 # Updated every new BGE (portraitpack for the LBN)
-assets = 'cardpack_event_{3} portraitpack_{3}'
+# assets = 'cardpack_event_{3} portraitpack_{3}'
 
 assets = assets.split()
 print(f'Trying to download {len(assets)} asset types:', ' '.join(assets))
