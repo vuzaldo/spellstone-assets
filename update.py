@@ -37,12 +37,19 @@ assets = 'cardpack_{3} cardpack_expansion_{3} cardpack_aprilfools_{3} runepack_{
 # Updated every new BGE (portraitpack for the LBN)
 assets = 'cardpack_event_{3} portraitpack_{3}'
 
+# Sometimes the same asset is reused to add new content
+force_rewrite = { 'portraitpack': 7 }
+
 assets = assets.split()
 print(f'Trying to download {len(assets)} asset types:', ' '.join(assets))
 
 for asset in assets:
 	print()
 	name, z, k = asset_counter(asset)
+	f = force_rewrite.get(name, k)
+	if f < k:
+		k = f
+		print(f'[Rewriting assets from {name}_{str(k).zfill(z)}+]')
 	while True:
 		num = str(k).zfill(z) if z else ''
 		sep = '_' if num else ''
