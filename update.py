@@ -8,6 +8,8 @@ version = '_unity2020_3_33_webgl.unity3d'
 
 output_dir = 'assets/'
 show_images = False # show each extracted image
+image_format = 'png'
+# image_format = 'jpg' # loses alpha/transparency
 # Save the content of each .unity3d file in a separate folder instead of grouping types
 split_folder = True
 
@@ -53,7 +55,7 @@ for asset in assets:
 			# with open(output_dir + file, 'wb') as f: f.write(res.content) # to save the .unity3d file
 			folder = output_dir + name + (sep + num if split_folder else '')
 			os.makedirs(folder, exist_ok = True)
-			extract_images(res.content, save_dir = folder, show = show_images)
+			extract_images(res.content, save_dir = folder, show = show_images, img_format = image_format)
 		else:
 			print(f'Not found ({res.status_code})')
 			break

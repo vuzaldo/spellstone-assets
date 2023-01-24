@@ -2,7 +2,7 @@
 import UnityPy
 import cv2, numpy as np
 
-def extract_images(file, save_dir = None, show = False):
+def extract_images(file, save_dir = None, show = False, img_format = 'png'):
 	bundle = UnityPy.load(file)
 	print(f'Reading {len(bundle.objects)} objects... ', end = '')
 	textures, mono = {}, []
@@ -39,7 +39,7 @@ def extract_images(file, save_dir = None, show = False):
 				sprite = cv2.flip(sprite, 0)
 			print('\t', name)
 			if save_dir:
-				cv2.imwrite(f'{save_dir}/{name}.png', sprite)
+				cv2.imwrite(f'{save_dir}/{name}.{img_format}', sprite)
 			if show:
 				cv2.imshow('Sprite', sprite)
 				cv2.waitKey()
