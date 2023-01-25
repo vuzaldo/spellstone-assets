@@ -12,7 +12,6 @@ def extract_images(file, save_dir = None, show = False, img_format = 'png'):
 			img = data.image
 			if not all(img.size): continue
 			img = cv2.cvtColor(np.array(img), cv2.COLOR_RGBA2BGRA)
-			img = cv2.flip(img, 0)
 			textures[obj.path_id] = img
 		elif obj.type.name == 'MonoBehaviour':
 			mono.append(obj)
@@ -28,15 +27,14 @@ def extract_images(file, save_dir = None, show = False, img_format = 'png'):
 			name = definitions['name']
 			if not name: continue
 			points = [tuple(uv.values()) for uv in definitions['uvs']]
-			points = [(round(p[0] * w), round(p[1] * h)) for p in points]
+			points = [(round(p[0] * w), h - round(p[1] * h)) for p in points]
 			xmin, xmax = min(p[0] for p in points), max(p[0] for p in points)
 			ymin, ymax = min(p[1] for p in points), max(p[1] for p in points)
 			sprite = texture[ymin : ymin + (ymax - ymin), xmin : xmin + (xmax - xmin)]
 			if not all(sprite.shape): continue
 			if definitions['flipped']:
-				sprite = cv2.rotate(sprite, cv2.ROTATE_90_COUNTERCLOCKWISE)
-			else:
 				sprite = cv2.flip(sprite, 0)
+				sprite = cv2.rotate(sprite, cv2.ROTATE_90_COUNTERCLOCKWISE)
 			print('\t', name)
 			if save_dir:
 				cv2.imwrite(f'{save_dir}/{name}.{img_format}', sprite)
