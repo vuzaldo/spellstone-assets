@@ -30,10 +30,10 @@ def asset_counter(asset):
 
 # We are not interested in these (also some are incomplete or only contained in core assets)
 assets = '''arena_boxes_{3} core_assets_{3} event{1} event_{3} frog_crystal_{2} guildwars_{3} item_{3}
-localizationpack_{3} mappack_{3} pvp_bundle_{3} raid_{3} santaBundle_{3} storepack_{3} skills_{3} bgeIcons_{3}
-challenge_banners_{3} cardpack_standardset_2020 dungeon_{3}'''
+localizationpack_{3} mappack_{3} pvp_bundle_{3} raid_{3} santaBundle_{3} skills_{3} bgeIcons_{3}'''
 # Not updated often
-assets = 'cardpack_{3} cardpack_expansion_{3} cardpack_aprilfools_{3} runepack_{3} mapbanners_{3}'
+assets = '''cardpack_{3} cardpack_expansion_{3} cardpack_aprilfools_{3} cardpack_standardset_2020
+runepack_{3} mapbanners_{3} challenge_banners_{3} storepack_{3} dungeon_{3}'''
 # Updated every new BGE (portraitpack for the LBN)
 assets = 'cardpack_event_{3} portraitpack_{3}'
 
