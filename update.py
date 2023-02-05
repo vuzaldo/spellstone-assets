@@ -3,8 +3,8 @@ import os, requests
 from extract import extract_images
 
 # Assets URL and version may change
-url = 'https://d3splaxnu2bep2.cloudfront.net/spellstone/asset_bundles_live/2020_3_33f1/'
-version = '_unity2020_3_33_webgl.unity3d'
+url = 'https://d3splaxnu2bep2.cloudfront.net/spellstone/asset_bundles/2020_3_42f1/'
+version = '_unity2020_3_42_webgl.unity3d'
 
 output_dir = 'assets/'
 show_images = False # show each extracted image
